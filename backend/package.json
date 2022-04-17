@@ -1,0 +1,9 @@
+{
+  "name": "authx-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/dadcuyJS/authx.git",
+  "author": "Dadcuy JS <77256120+dadcuyJS@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}

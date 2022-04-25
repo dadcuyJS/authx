@@ -5,6 +5,10 @@
   "repository": "https://github.com/dadcuyJS/authx.git",
   "author": "Dadcuy JS <77256120+dadcuyJS@users.noreply.github.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "development": "nodemon src/index.js"
+  },
   "private": false,
   "dependencies": {
     "bcrypt": "^5.0.1",
